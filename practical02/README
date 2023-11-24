@@ -1,0 +1,3 @@
+These are the codes used for practical 2.
+gcc -o Conversion Conversion.c -lm
+gcc -o Sum Sum.c
