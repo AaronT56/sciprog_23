@@ -1,0 +1,6 @@
+This is the code used to perform the computation of area under a curve using the trapezoidal rule in practical 3.
+
+The compile command is as follows:
+
+gcc -o trap integration.c -lm -Wall
+
