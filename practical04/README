@@ -1,0 +1,5 @@
+This is the code used in Practical 4 of the Scientific Programming Module. The code takes in degrees, converts them to radians and calculates the area under a curve using the trapezoidal rule.
+
+Compile command:
+
+gcc -o integrate integ_degrees.c -lm -Wall
