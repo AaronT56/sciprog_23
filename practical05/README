@@ -1,0 +1,9 @@
+This is the source code for practical 5 of Scientific Programming. There are three different purposes of the code in this directory. The scanf.c is simply a file to demonstrate the purposes of the scanf command in C. The fibonacci.c file will compute the fibonacci series up to n. Finally, arctan.c file compares two different methods of computation of the arctanh function. The compilation commands are as follows:
+
+gcc -o scan scanf.c 
+
+gcc -o fibonacci fibonacci.c -lm -Wall
+
+gcc -o arctan arctan.c -lm -Wall
+
+
