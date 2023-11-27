@@ -1,0 +1,5 @@
+This is the source code for practical 7 of Scientific Programming. The practical demonstrates how to evaluate the 1st order to 15th order polynomials of 1/x and compares this polynomial to e. The practical further introduces and works with concepts relating to basic C pointers and dynamic memory allocation. To compile the source code use the following commands:
+
+gcc -o finde finde.c
+
+gcc -o dynamicallocation dynamicallocation.c
