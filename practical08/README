@@ -1,0 +1,3 @@
+This directory contains the source code files for practical 8 of Scientific Programming. The code outlines how to find the greatest common divisor between two integers using both iterative and recursive methods. The compile command for this practical is:
+
+gcc -o gcd gcd.c -Wall
