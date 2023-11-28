@@ -1,0 +1,3 @@
+This is the source code files for practical 9 of Scientific Programming. The practical outlines how to take a file which contains a square matrix and determine whether that matrix is a magic square or not. The main function receives the matrix and the magic_square.h file checks whether it is a magic square. The compile command is simply:
+
+gcc main.c
